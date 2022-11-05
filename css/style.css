@@ -39,7 +39,7 @@ nav ul li a{
     color: #2d3950;
     text-decoration: none;
     font-family: 'Lato', sans-serif;
-    text-transform: capitalize;
+    text-transform: uppercase;
 
 }
 .banner{
@@ -389,7 +389,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3db7ff', end
     color: #ffffff;
     margin-bottom: 15px;
     font-size: x-large;
-    text-transform: capitalize;
+    text-transform: uppercase;
     
 
 }
