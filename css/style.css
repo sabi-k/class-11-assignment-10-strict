@@ -389,7 +389,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3db7ff', end
     color: #ffffff;
     margin-bottom: 15px;
     font-size: x-large;
-    text-transform: uppercase;
+    text-transform: capitalize;
     
 
 }
